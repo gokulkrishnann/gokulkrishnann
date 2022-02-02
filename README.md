@@ -1,11 +1,11 @@
 # 💫About Me :
-🔭 I’m currently working on React , Typescript and other stuff like (RRR)
+- 🔭 I’m currently working on React , Typescript and other stuff like (RRR)
   React Query, Redux, RxJS
-👯 I’m looking to collaborate on Open source
-🤝 I’m looking for help with
-🌱 I’m currently learning - AWS and Python
-💬 Ask me about JS,Typescript, React
-You can Write this in Markdown format too
+- 👯 I’m looking to collaborate on Open source
+- 🤝 I’m looking for help with
+- 🌱 I’m currently learning - AWS and Python
+- 💬 Ask me about JS,Typescript, React
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bgokulkrishna) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gocool_krishna) 
