@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on React , Typescript and other stuff like (RRR)
   React Query, Redux, RxJS
 - 👯 I’m looking to collaborate on Open source
-- 🤝 I’m looking for help with
 - 🌱 I’m currently learning - AWS and Python
 - 💬 Ask me about JS,Typescript, React
 
