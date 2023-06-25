@@ -5,7 +5,10 @@
 - 🌱 I’m currently learning - NestJS, AWS and Python
 - 💬 Ask me about JS,Typescript, React
 
+# What's in Book shelf right now:
+- Designing Data Intensive Applications📖
 
+  
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bgokulkrishna) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gocool_krishna) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gkrishn4)
