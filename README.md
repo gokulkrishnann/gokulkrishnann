@@ -1,12 +1,12 @@
 # 💫About Me :
-- 🔭 I’m currently working on React , Typescript and other stuff like (RRR)
-  React Query, Redux, RxJS
+- 🔭 I’m currently working on React,Typescript and other stuff like
+  React Query, Redux
 - 👯 I’m looking to collaborate on Open source
-- 🌱 I’m currently learning - NestJS, AWS and Python
-- 💬 Ask me about JS,Typescript, React
+- 🌱 I’m currently learning -  Python with FastAPI
+- 💬 Ask me about JS,Typescript,React,NodeJs and AWS
 
 # What's in Book shelf right now:
-- Designing Data Intensive Applications📖
+- Python MicroServices API📖
 
   
 ## 🌐Socials
