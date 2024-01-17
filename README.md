@@ -2,11 +2,11 @@
 - 🔭 I’m currently working on React,Typescript and other stuff like
   React Query, Redux
 - 👯 I’m looking to collaborate on Open source
-- 🌱 I’m currently learning -  Python with FastAPI
+- 🌱 I’m currently learning -  Django
 - 💬 Ask me about JS,Typescript,React,NodeJs and AWS
 
 # What's in Book shelf right now:
-- Flask_Web_Development_Developing📖
+- Django4 by example📖
 
 # Last read:
 - Buildling Python Web APIs with FastAPI afast paced guide
