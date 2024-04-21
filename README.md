@@ -10,7 +10,7 @@
 
 # Last read:
 - Django4 by example
-- Buildling Python Web APIs with FastAPI afast paced guide
+- Buildling Python Web APIs with FastAPI a fast paced guide
 - Python Tricks
 
   
