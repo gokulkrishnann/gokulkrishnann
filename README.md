@@ -6,9 +6,10 @@
 - 💬 Ask me about JS,Typescript,React,NodeJs and AWS
 
 # What's in Book shelf right now:
-- Django4 by example📖
+- High Performance Web Apps with Fast API📖
 
 # Last read:
+- Django4 by example
 - Buildling Python Web APIs with FastAPI afast paced guide
 - Python Tricks
 
