@@ -1,16 +1,18 @@
 # 💫About Me :
 - 🔭 I’m currently working on React,Typescript and other stuff like
   React Query, Redux
-- 👯 I’m looking to collaborate on Open source
+- 💬 Ask me about JS,Typescript,Python,React,NodeJs,AWS and Terraform
 - 🌱 I’m currently learning -  Django, Terraform
-- 💬 Ask me about JS,Typescript,React,NodeJs,AWS and Terraform
+- 👯 I’m looking to collaborate on Open source
 
 # What's in Book shelf right now:
-- React 18 Design patterns📖
+- AI Engineering📖
+- Ultimate Python programming📖
+- Angular Projects📖
 
-# Last read:
-- High Performance Web Apps with Fast API📖
-- Django4 by example
+# Last read📖:
+- High Performance Web Apps with Fast API
+- Django5 by example
 - Buildling Python Web APIs with FastAPI a fast paced guide
 - Python Tricks
 
