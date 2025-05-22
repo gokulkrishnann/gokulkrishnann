@@ -6,9 +6,8 @@
 - 👯 I’m looking to collaborate on Open source
 
 # What's in Book shelf right now:
-- AI Engineering📖
-- Ultimate Python programming📖
-- Angular Projects📖
+- Hands-On Large Language Models: Language Understanding and Generation📖
+- Strategic Mindset📖
 
 # Last read📖:
 - High Performance Web Apps with Fast API
