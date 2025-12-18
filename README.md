@@ -8,11 +8,11 @@
 - 👯 I’m looking to collaborate on Open source
 
 # What's in Book shelf right now:
-- AI Engineering📖
-- Money Hacks📖
+- Mastering LLM Applications📖
+- Visualizing GenAI📖
 
 # Last read📖:
-- Go Beginner to professional
+- Javascript Ninja
 
   
 ## 🌐Socials
