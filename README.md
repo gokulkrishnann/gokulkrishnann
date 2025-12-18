@@ -1,4 +1,5 @@
 # 💫About Me :
+- Developed [SpellBee Mastery](https://play.google.com/store/apps/details?id=com.spellbeemastery.game) a Daily Word Puzzle Challenge
 - Created a [Multi Terminal Runner-VS Code extension](https://marketplace.visualstudio.com/items?itemName=MultiTerminalRunner.multi-terminal-runner) that allows you to run multiple commands in separate terminals with a single click with a simple UI.
 - 🔭 I’m currently working on React,Typescript and other stuff like
   React Query, Redux
